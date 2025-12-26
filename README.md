@@ -138,13 +138,14 @@ Interface disponível em: `http://localhost:5173`
 ## Capturas de Tela
 
 ### Dashboard
-![Dashboard](docs/images/dashboard.png)
+<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/fdf71ef8-9169-4014-bc69-1a96afe7951b" />
 
 ### Gestão de Transações
-![Transações](docs/images/transacoes.png)
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/f5d77af3-ca74-43fc-9077-fa5a0d927318" />
 
 ### Relatórios
-![Relatórios](docs/images/relatorios.png)
+<img width="1915" height="945" alt="image" src="https://github.com/user-attachments/assets/e455efc8-32f9-43ec-91e2-48b1c4735e4e" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/bfc85051-a95c-4e4d-a923-769507430631" />
 
 ## Autor
 
