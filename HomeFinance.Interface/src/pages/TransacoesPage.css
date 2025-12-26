@@ -1,0 +1,39 @@
+/* Estilos da página de transações */
+
+.transacoes-page {
+  padding: var(--spacing-lg) 0;
+}
+
+.page-header {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.page-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: var(--spacing-xs);
+  color: var(--text-primary);
+  letter-spacing: -0.5px;
+}
+
+.page-subtitle {
+  color: var(--text-secondary);
+  font-size: 0.9375rem;
+  font-weight: 400;
+}
+
+.tipo-buttons {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.tipo-buttons .btn {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .tipo-buttons {
+    flex-direction: column;
+  }
+}
+
